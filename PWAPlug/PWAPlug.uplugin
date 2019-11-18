@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PWAPlug",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Rhiannon Zionzee",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.23.0",
+	"CanContainContent": true,
+	"Installed": true
+}
